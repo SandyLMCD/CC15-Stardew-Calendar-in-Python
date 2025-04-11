@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="bg">
+    <file>wood.jpg</file>
+    <file>background.jpg</file>
+  </qresource>
+</RCC>
